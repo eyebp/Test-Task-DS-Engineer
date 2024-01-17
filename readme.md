@@ -23,6 +23,10 @@ Run jupyter notebook to browse `explore.ipynb`
 
 An example structure of a base class and child classes of an image classifier.
 
+IMPORTANT - please download random forest model from here https://drive.google.com/file/d/19b2CMzigVKQXkzBfPB88-S8wlzV851Vm/view?usp=sharing and put it into `3-oop/`
+because it was too large to fit on github directly.
+or just use zipped version.
+
 To test: `use_oop.ipynb`
 To inspect: `oop.py`
 Models trained in: `mnist-train.ipynb`
